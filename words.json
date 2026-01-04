@@ -1,0 +1,20 @@
+[
+  {
+    "word": "Reisepass",
+    "translation": "passport",
+    "ipa": "ˈʁaɪ̯zəˌpas",
+    "audio": "https://example.com/audio/reisepass.mp3"
+  },
+  {
+    "word": "Haus",
+    "translation": "house",
+    "ipa": "haʊs",
+    "audio": "https://example.com/audio/haus.mp3"
+  },
+  {
+    "word": "Buch",
+    "translation": "book",
+    "ipa": "buːx",
+    "audio": "https://example.com/audio/buch.mp3"
+  }
+]
